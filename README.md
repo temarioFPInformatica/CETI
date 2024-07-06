@@ -9,4 +9,4 @@
 |3 | Construcción de un CyberSOC | 25h | RA2 |
 |4 | Investigación de incidentes de ciberseguridad | 20h | RA3   |
 |5 | Implementación de medidas| 20h | RA4 |
-|6 | Documentación y notificación de incidentes | 20h | R5 |
+|6 | Documentación y notificación de incidentes | 20h | RA5 |
