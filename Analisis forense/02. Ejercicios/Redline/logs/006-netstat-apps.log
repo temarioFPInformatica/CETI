@@ -1,0 +1,79 @@
+RESULT OF netstat -anob 
+TIMESTAMP: 2022-02-21 08:35:01,14 Romance Standard Time 
+-------------------------------------------- 
+
+Conexiones activas
+
+  Proto  Dirección local          Dirección remota        Estado           PID
+  TCP    0.0.0.0:135            0.0.0.0:0              LISTENING       748
+  RpcSs
+ [svchost.exe]
+  TCP    0.0.0.0:445            0.0.0.0:0              LISTENING       4
+ No se puede obtener información de propiedad
+  TCP    0.0.0.0:5357           0.0.0.0:0              LISTENING       4
+ No se puede obtener información de propiedad
+  TCP    0.0.0.0:49152          0.0.0.0:0              LISTENING       412
+ [wininit.exe]
+  TCP    0.0.0.0:49153          0.0.0.0:0              LISTENING       856
+  eventlog
+ [svchost.exe]
+  TCP    0.0.0.0:49154          0.0.0.0:0              LISTENING       936
+  Schedule
+ [svchost.exe]
+  TCP    0.0.0.0:49155          0.0.0.0:0              LISTENING       504
+ [services.exe]
+  TCP    0.0.0.0:49157          0.0.0.0:0              LISTENING       520
+ [lsass.exe]
+  TCP    10.10.10.5:139         0.0.0.0:0              LISTENING       4
+ No se puede obtener información de propiedad
+  TCP    10.10.10.5:49156       2.22.62.88:80          TIME_WAIT       0
+  TCP    [::]:135               [::]:0                 LISTENING       748
+  RpcSs
+ [svchost.exe]
+  TCP    [::]:445               [::]:0                 LISTENING       4
+ No se puede obtener información de propiedad
+  TCP    [::]:5357              [::]:0                 LISTENING       4
+ No se puede obtener información de propiedad
+  TCP    [::]:49152             [::]:0                 LISTENING       412
+ [wininit.exe]
+  TCP    [::]:49153             [::]:0                 LISTENING       856
+  eventlog
+ [svchost.exe]
+  TCP    [::]:49154             [::]:0                 LISTENING       936
+  Schedule
+ [svchost.exe]
+  TCP    [::]:49155             [::]:0                 LISTENING       504
+ [services.exe]
+  TCP    [::]:49157             [::]:0                 LISTENING       520
+ [lsass.exe]
+  UDP    0.0.0.0:3702           *:*                                    1576
+  FDResPub
+ [svchost.exe]
+  UDP    0.0.0.0:3702           *:*                                    1576
+  FDResPub
+ [svchost.exe]
+  UDP    0.0.0.0:5355           *:*                                    1204
+  Dnscache
+ [svchost.exe]
+  UDP    0.0.0.0:49152          *:*                                    1576
+  FDResPub
+ [svchost.exe]
+  UDP    10.10.10.5:137         *:*                                    4
+ No se puede obtener información de propiedad
+  UDP    10.10.10.5:138         *:*                                    4
+ No se puede obtener información de propiedad
+  UDP    [::]:3702              *:*                                    1576
+  FDResPub
+ [svchost.exe]
+  UDP    [::]:3702              *:*                                    1576
+  FDResPub
+ [svchost.exe]
+  UDP    [::]:5355              *:*                                    1204
+  Dnscache
+ [svchost.exe]
+  UDP    [::]:49153             *:*                                    1576
+  FDResPub
+ [svchost.exe]
+  UDP    [fe80::a4cf:83f9:45ed:11d8%10]:546  *:*                                    856
+  Dhcp
+ [svchost.exe]

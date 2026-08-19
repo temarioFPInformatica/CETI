@@ -1,0 +1,14 @@
+RESULT OF dir /t:a /a /s /o:d /4 c:\ 
+TIMESTAMP: 2022-02-21 08:37:01,55 Romance Standard Time 
+-------------------------------------------- 
+    
+Conexi¢n de  rea local:
+Direcci¢n IP del nodo: [10.10.10.5] Id. de  mbito : []
+
+                Tabla de nombres locales NetBIOS
+
+       Nombre             Tipo         Estado
+    ---------------------------------------------
+    ALUMNO-PC      <00>  énico       Registrado 
+    WORKGROUP      <00>  Grupo       Registrado 
+    ALUMNO-PC      <20>  énico       Registrado 

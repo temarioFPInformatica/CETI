@@ -1,0 +1,44 @@
+RESULT OF tasklist 
+TIMESTAMP: 2022-02-21 08:35:15,75 Romance Standard Time 
+-------------------------------------------- 
+
+Nombre de imagen               PID Nombre de sesión Núm. de ses Uso de memor
+========================= ======== ================ =========== ============
+System Idle Process              0 Services                   0        24 KB
+System                           4 Services                   0       876 KB
+smss.exe                       288 Services                   0       860 KB
+csrss.exe                      364 Services                   0     3.044 KB
+wininit.exe                    412 Services                   0     3.376 KB
+csrss.exe                      420 Console                    1     4.380 KB
+winlogon.exe                   460 Console                    1     5.176 KB
+services.exe                   504 Services                   0     6.096 KB
+lsass.exe                      520 Services                   0     7.132 KB
+lsm.exe                        528 Services                   0     3.116 KB
+svchost.exe                    624 Services                   0     6.908 KB
+VBoxService.exe                692 Services                   0     4.188 KB
+svchost.exe                    748 Services                   0     5.332 KB
+svchost.exe                    856 Services                   0    11.260 KB
+svchost.exe                    896 Services                   0    37.704 KB
+svchost.exe                    936 Services                   0    18.096 KB
+audiodg.exe                   1012 Services                   0    13.944 KB
+svchost.exe                   1088 Services                   0     7.352 KB
+svchost.exe                   1204 Services                   0    10.032 KB
+taskeng.exe                   1388 Services                   0     3.864 KB
+spoolsv.exe                   1396 Services                   0     8.452 KB
+svchost.exe                   1432 Services                   0     9.696 KB
+svchost.exe                   1576 Services                   0     6.748 KB
+TrustedInstaller.exe          2044 Services                   0     6.752 KB
+sppsvc.exe                    1324 Services                   0    10.128 KB
+taskhost.exe                   524 Console                    1     5.836 KB
+GoogleCrashHandler.exe        1964 Services                   0       636 KB
+dwm.exe                        948 Console                    1     4.144 KB
+explorer.exe                   848 Console                    1    40.860 KB
+VBoxTray.exe                  1560 Console                    1     4.380 KB
+SearchIndexer.exe             2256 Services                   0     9.636 KB
+SearchProtocolHost.exe        2320 Console                    1     4.336 KB
+SearchFilterHost.exe          2340 Services                   0     3.608 KB
+cmd.exe                       2908 Console                    1     3.076 KB
+conhost.exe                   2916 Console                    1     4.376 KB
+dllhost.exe                   3700 Console                    1     4.064 KB
+tasklist.exe                  3804 Console                    1     4.456 KB
+WmiPrvSE.exe                  3836 Services                   0     5.004 KB

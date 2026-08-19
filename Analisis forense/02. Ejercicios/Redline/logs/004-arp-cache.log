@@ -1,0 +1,12 @@
+RESULT OF arp -a 
+TIMESTAMP: 2022-02-21 08:35:00,33 Romance Standard Time 
+-------------------------------------------- 
+
+Interfaz: 10.10.10.5 --- 0xa
+  Dirección de Internet          Dirección física      Tipo
+  10.10.10.1            52-54-00-12-35-00     dinámico  
+  10.10.10.3            08-00-27-a1-1f-e1     dinámico  
+  10.10.10.255          ff-ff-ff-ff-ff-ff     estático  
+  224.0.0.22            01-00-5e-00-00-16     estático  
+  224.0.0.252           01-00-5e-00-00-fc     estático  
+  255.255.255.255       ff-ff-ff-ff-ff-ff     estático  

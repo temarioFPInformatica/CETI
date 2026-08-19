@@ -1,0 +1,21 @@
+RESULT OF netstat -an 
+TIMESTAMP: 2022-02-21 08:35:00,74 Romance Standard Time 
+-------------------------------------------- 
+  Proto  Dirección local        Dirección remota       Estado
+  TCP    0.0.0.0:135            0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:445            0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:5357           0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49152          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49153          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49154          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49155          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49157          0.0.0.0:0              LISTENING
+  TCP    10.10.10.5:139         0.0.0.0:0              LISTENING
+  TCP    [::]:135               [::]:0                 LISTENING
+  TCP    [::]:445               [::]:0                 LISTENING
+  TCP    [::]:5357              [::]:0                 LISTENING
+  TCP    [::]:49152             [::]:0                 LISTENING
+  TCP    [::]:49153             [::]:0                 LISTENING
+  TCP    [::]:49154             [::]:0                 LISTENING
+  TCP    [::]:49155             [::]:0                 LISTENING
+  TCP    [::]:49157             [::]:0                 LISTENING

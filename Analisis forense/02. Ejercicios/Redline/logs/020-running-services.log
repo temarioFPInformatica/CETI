@@ -1,0 +1,463 @@
+RESULT OF sc query 
+TIMESTAMP: 2022-02-21 08:35:36,55 Romance Standard Time 
+-------------------------------------------- 
+
+NOMBRE_SERVICIO: Appinfo
+NOMBRE_MOSTRAR : Informaci¢n de la aplicaci¢n
+        TIPO               : 20  WIN32_SHARE_PROCESS  
+        ESTADO             : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        C‡D_SALIDA_WIN32   : 0  (0x0)
+        C‡D_SALIDA_SERVICIO: 0  (0x0)
+        PUNTO_COMPROB.     : 0x0
+        INDICACI‡N_INICIO  : 0x0
+
+NOMBRE_SERVICIO: AudioEndpointBuilder
+NOMBRE_MOSTRAR : Compilador de extremo de audio de Windows
+        TIPO               : 20  WIN32_SHARE_PROCESS  
+        ESTADO             : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        C‡D_SALIDA_WIN32   : 0  (0x0)
+        C‡D_SALIDA_SERVICIO: 0  (0x0)
+        PUNTO_COMPROB.     : 0x0
+        INDICACI‡N_INICIO  : 0x0
+
+NOMBRE_SERVICIO: Audiosrv
+NOMBRE_MOSTRAR : Audio de Windows
+        TIPO               : 20  WIN32_SHARE_PROCESS  
+        ESTADO             : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        C‡D_SALIDA_WIN32   : 0  (0x0)
+        C‡D_SALIDA_SERVICIO: 0  (0x0)
+        PUNTO_COMPROB.     : 0x0
+        INDICACI‡N_INICIO  : 0x0
+
+NOMBRE_SERVICIO: BFE
+NOMBRE_MOSTRAR : Motor de filtrado de base
+        TIPO               : 20  WIN32_SHARE_PROCESS  
+        ESTADO             : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        C‡D_SALIDA_WIN32   : 0  (0x0)
+        C‡D_SALIDA_SERVICIO: 0  (0x0)
+        PUNTO_COMPROB.     : 0x0
+        INDICACI‡N_INICIO  : 0x0
+
+NOMBRE_SERVICIO: CryptSvc
+NOMBRE_MOSTRAR : Servicios de cifrado
+        TIPO               : 20  WIN32_SHARE_PROCESS  
+        ESTADO             : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        C‡D_SALIDA_WIN32   : 0  (0x0)
+        C‡D_SALIDA_SERVICIO: 0  (0x0)
+        PUNTO_COMPROB.     : 0x0
+        INDICACI‡N_INICIO  : 0x0
+
+NOMBRE_SERVICIO: CscService
+NOMBRE_MOSTRAR : Archivos sin conexi¢n
+        TIPO               : 20  WIN32_SHARE_PROCESS  
+        ESTADO             : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        C‡D_SALIDA_WIN32   : 0  (0x0)
+        C‡D_SALIDA_SERVICIO: 0  (0x0)
+        PUNTO_COMPROB.     : 0x0
+        INDICACI‡N_INICIO  : 0x0
+
+NOMBRE_SERVICIO: DcomLaunch
+NOMBRE_MOSTRAR : Iniciador de procesos de servidor DCOM
+        TIPO               : 20  WIN32_SHARE_PROCESS  
+        ESTADO             : 4  RUNNING 
+                                (NOT_STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        C‡D_SALIDA_WIN32   : 0  (0x0)
+        C‡D_SALIDA_SERVICIO: 0  (0x0)
+        PUNTO_COMPROB.     : 0x0
+        INDICACI‡N_INICIO  : 0x0
+
+NOMBRE_SERVICIO: Dhcp
+NOMBRE_MOSTRAR : Cliente DHCP
+        TIPO               : 20  WIN32_SHARE_PROCESS  
+        ESTADO             : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        C‡D_SALIDA_WIN32   : 0  (0x0)
+        C‡D_SALIDA_SERVICIO: 0  (0x0)
+        PUNTO_COMPROB.     : 0x0
+        INDICACI‡N_INICIO  : 0x0
+
+NOMBRE_SERVICIO: Dnscache
+NOMBRE_MOSTRAR : Cliente DNS
+        TIPO               : 20  WIN32_SHARE_PROCESS  
+        ESTADO             : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        C‡D_SALIDA_WIN32   : 0  (0x0)
+        C‡D_SALIDA_SERVICIO: 0  (0x0)
+        PUNTO_COMPROB.     : 0x0
+        INDICACI‡N_INICIO  : 0x0
+
+NOMBRE_SERVICIO: DPS
+NOMBRE_MOSTRAR : Servicio de directivas de diagn¢stico
+        TIPO               : 20  WIN32_SHARE_PROCESS  
+        ESTADO             : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        C‡D_SALIDA_WIN32   : 0  (0x0)
+        C‡D_SALIDA_SERVICIO: 0  (0x0)
+        PUNTO_COMPROB.     : 0x0
+        INDICACI‡N_INICIO  : 0x0
+
+NOMBRE_SERVICIO: eventlog
+NOMBRE_MOSTRAR : Registro de eventos de Windows
+        TIPO               : 20  WIN32_SHARE_PROCESS  
+        ESTADO             : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        C‡D_SALIDA_WIN32   : 0  (0x0)
+        C‡D_SALIDA_SERVICIO: 0  (0x0)
+        PUNTO_COMPROB.     : 0x0
+        INDICACI‡N_INICIO  : 0x0
+
+NOMBRE_SERVICIO: EventSystem
+NOMBRE_MOSTRAR : Sistema de eventos COM+
+        TIPO               : 20  WIN32_SHARE_PROCESS  
+        ESTADO             : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        C‡D_SALIDA_WIN32   : 0  (0x0)
+        C‡D_SALIDA_SERVICIO: 0  (0x0)
+        PUNTO_COMPROB.     : 0x0
+        INDICACI‡N_INICIO  : 0x0
+
+NOMBRE_SERVICIO: FDResPub
+NOMBRE_MOSTRAR : Publicaci¢n de recurso de detecci¢n de funci¢n
+        TIPO               : 20  WIN32_SHARE_PROCESS  
+        ESTADO             : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        C‡D_SALIDA_WIN32   : 0  (0x0)
+        C‡D_SALIDA_SERVICIO: 0  (0x0)
+        PUNTO_COMPROB.     : 0x0
+        INDICACI‡N_INICIO  : 0x0
+
+NOMBRE_SERVICIO: gpsvc
+NOMBRE_MOSTRAR : Cliente de directiva de grupo
+        TIPO               : 20  WIN32_SHARE_PROCESS  
+        ESTADO             : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_PRESHUTDOWN)
+        C‡D_SALIDA_WIN32   : 0  (0x0)
+        C‡D_SALIDA_SERVICIO: 0  (0x0)
+        PUNTO_COMPROB.     : 0x0
+        INDICACI‡N_INICIO  : 0x0
+
+NOMBRE_SERVICIO: iphlpsvc
+NOMBRE_MOSTRAR : Aplicaci¢n auxiliar IP
+        TIPO               : 20  WIN32_SHARE_PROCESS  
+        ESTADO             : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        C‡D_SALIDA_WIN32   : 0  (0x0)
+        C‡D_SALIDA_SERVICIO: 0  (0x0)
+        PUNTO_COMPROB.     : 0x0
+        INDICACI‡N_INICIO  : 0x0
+
+NOMBRE_SERVICIO: LanmanServer
+NOMBRE_MOSTRAR : Servidor
+        TIPO               : 20  WIN32_SHARE_PROCESS  
+        ESTADO             : 4  RUNNING 
+                                (STOPPABLE, PAUSABLE, IGNORES_SHUTDOWN)
+        C‡D_SALIDA_WIN32   : 0  (0x0)
+        C‡D_SALIDA_SERVICIO: 0  (0x0)
+        PUNTO_COMPROB.     : 0x0
+        INDICACI‡N_INICIO  : 0x0
+
+NOMBRE_SERVICIO: LanmanWorkstation
+NOMBRE_MOSTRAR : Estaci¢n de trabajo
+        TIPO               : 20  WIN32_SHARE_PROCESS  
+        ESTADO             : 4  RUNNING 
+                                (STOPPABLE, PAUSABLE, IGNORES_SHUTDOWN)
+        C‡D_SALIDA_WIN32   : 0  (0x0)
+        C‡D_SALIDA_SERVICIO: 0  (0x0)
+        PUNTO_COMPROB.     : 0x0
+        INDICACI‡N_INICIO  : 0x0
+
+NOMBRE_SERVICIO: lmhosts
+NOMBRE_MOSTRAR : Aplicaci¢n auxiliar de NetBIOS sobre TCP/IP
+        TIPO               : 20  WIN32_SHARE_PROCESS  
+        ESTADO             : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        C‡D_SALIDA_WIN32   : 0  (0x0)
+        C‡D_SALIDA_SERVICIO: 0  (0x0)
+        PUNTO_COMPROB.     : 0x0
+        INDICACI‡N_INICIO  : 0x0
+
+NOMBRE_SERVICIO: MMCSS
+NOMBRE_MOSTRAR : Programador de aplicaciones multimedia
+        TIPO               : 20  WIN32_SHARE_PROCESS  
+        ESTADO             : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        C‡D_SALIDA_WIN32   : 0  (0x0)
+        C‡D_SALIDA_SERVICIO: 0  (0x0)
+        PUNTO_COMPROB.     : 0x0
+        INDICACI‡N_INICIO  : 0x0
+
+NOMBRE_SERVICIO: MpsSvc
+NOMBRE_MOSTRAR : Firewall de Windows
+        TIPO               : 20  WIN32_SHARE_PROCESS  
+        ESTADO             : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        C‡D_SALIDA_WIN32   : 0  (0x0)
+        C‡D_SALIDA_SERVICIO: 0  (0x0)
+        PUNTO_COMPROB.     : 0x0
+        INDICACI‡N_INICIO  : 0x0
+
+NOMBRE_SERVICIO: Netman
+NOMBRE_MOSTRAR : Conexiones de red
+        TIPO               : 20  WIN32_SHARE_PROCESS  
+        ESTADO             : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        C‡D_SALIDA_WIN32   : 0  (0x0)
+        C‡D_SALIDA_SERVICIO: 0  (0x0)
+        PUNTO_COMPROB.     : 0x0
+        INDICACI‡N_INICIO  : 0x0
+
+NOMBRE_SERVICIO: netprofm
+NOMBRE_MOSTRAR : Servicio de lista de redes
+        TIPO               : 20  WIN32_SHARE_PROCESS  
+        ESTADO             : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        C‡D_SALIDA_WIN32   : 0  (0x0)
+        C‡D_SALIDA_SERVICIO: 0  (0x0)
+        PUNTO_COMPROB.     : 0x0
+        INDICACI‡N_INICIO  : 0x0
+
+NOMBRE_SERVICIO: NlaSvc
+NOMBRE_MOSTRAR : Reconocimiento de ubicaci¢n de red
+        TIPO               : 20  WIN32_SHARE_PROCESS  
+        ESTADO             : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        C‡D_SALIDA_WIN32   : 0  (0x0)
+        C‡D_SALIDA_SERVICIO: 0  (0x0)
+        PUNTO_COMPROB.     : 0x0
+        INDICACI‡N_INICIO  : 0x0
+
+NOMBRE_SERVICIO: nsi
+NOMBRE_MOSTRAR : Servicio Interfaz de almacenamiento en red
+        TIPO               : 20  WIN32_SHARE_PROCESS  
+        ESTADO             : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        C‡D_SALIDA_WIN32   : 0  (0x0)
+        C‡D_SALIDA_SERVICIO: 0  (0x0)
+        PUNTO_COMPROB.     : 0x0
+        INDICACI‡N_INICIO  : 0x0
+
+NOMBRE_SERVICIO: PlugPlay
+NOMBRE_MOSTRAR : Plug and Play
+        TIPO               : 20  WIN32_SHARE_PROCESS  
+        ESTADO             : 4  RUNNING 
+                                (NOT_STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        C‡D_SALIDA_WIN32   : 0  (0x0)
+        C‡D_SALIDA_SERVICIO: 0  (0x0)
+        PUNTO_COMPROB.     : 0x0
+        INDICACI‡N_INICIO  : 0x0
+
+NOMBRE_SERVICIO: Power
+NOMBRE_MOSTRAR : Energ°a
+        TIPO               : 20  WIN32_SHARE_PROCESS  
+        ESTADO             : 4  RUNNING 
+                                (NOT_STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        C‡D_SALIDA_WIN32   : 0  (0x0)
+        C‡D_SALIDA_SERVICIO: 0  (0x0)
+        PUNTO_COMPROB.     : 0x0
+        INDICACI‡N_INICIO  : 0x0
+
+NOMBRE_SERVICIO: ProfSvc
+NOMBRE_MOSTRAR : Servicio de perfil de usuario
+        TIPO               : 20  WIN32_SHARE_PROCESS  
+        ESTADO             : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        C‡D_SALIDA_WIN32   : 0  (0x0)
+        C‡D_SALIDA_SERVICIO: 0  (0x0)
+        PUNTO_COMPROB.     : 0x0
+        INDICACI‡N_INICIO  : 0x0
+
+NOMBRE_SERVICIO: RpcEptMapper
+NOMBRE_MOSTRAR : Asignador de extremos de RPC
+        TIPO               : 20  WIN32_SHARE_PROCESS  
+        ESTADO             : 4  RUNNING 
+                                (NOT_STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        C‡D_SALIDA_WIN32   : 0  (0x0)
+        C‡D_SALIDA_SERVICIO: 0  (0x0)
+        PUNTO_COMPROB.     : 0x0
+        INDICACI‡N_INICIO  : 0x0
+
+NOMBRE_SERVICIO: RpcSs
+NOMBRE_MOSTRAR : Llamada a procedimiento remoto (RPC)
+        TIPO               : 20  WIN32_SHARE_PROCESS  
+        ESTADO             : 4  RUNNING 
+                                (NOT_STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        C‡D_SALIDA_WIN32   : 0  (0x0)
+        C‡D_SALIDA_SERVICIO: 0  (0x0)
+        PUNTO_COMPROB.     : 0x0
+        INDICACI‡N_INICIO  : 0x0
+
+NOMBRE_SERVICIO: SamSs
+NOMBRE_MOSTRAR : Administrador de cuentas de seguridad
+        TIPO               : 20  WIN32_SHARE_PROCESS  
+        ESTADO             : 4  RUNNING 
+                                (NOT_STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        C‡D_SALIDA_WIN32   : 0  (0x0)
+        C‡D_SALIDA_SERVICIO: 0  (0x0)
+        PUNTO_COMPROB.     : 0x0
+        INDICACI‡N_INICIO  : 0x0
+
+NOMBRE_SERVICIO: Schedule
+NOMBRE_MOSTRAR : Programador de tareas
+        TIPO               : 20  WIN32_SHARE_PROCESS  
+        ESTADO             : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        C‡D_SALIDA_WIN32   : 0  (0x0)
+        C‡D_SALIDA_SERVICIO: 0  (0x0)
+        PUNTO_COMPROB.     : 0x0
+        INDICACI‡N_INICIO  : 0x0
+
+NOMBRE_SERVICIO: SENS
+NOMBRE_MOSTRAR : Servicio de notificaci¢n de eventos de sistema
+        TIPO               : 20  WIN32_SHARE_PROCESS  
+        ESTADO             : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        C‡D_SALIDA_WIN32   : 0  (0x0)
+        C‡D_SALIDA_SERVICIO: 0  (0x0)
+        PUNTO_COMPROB.     : 0x0
+        INDICACI‡N_INICIO  : 0x0
+
+NOMBRE_SERVICIO: ShellHWDetection
+NOMBRE_MOSTRAR : Detecci¢n de hardware shell
+        TIPO               : 20  WIN32_SHARE_PROCESS  
+        ESTADO             : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        C‡D_SALIDA_WIN32   : 0  (0x0)
+        C‡D_SALIDA_SERVICIO: 0  (0x0)
+        PUNTO_COMPROB.     : 0x0
+        INDICACI‡N_INICIO  : 0x0
+
+NOMBRE_SERVICIO: Spooler
+NOMBRE_MOSTRAR : Cola de impresi¢n
+        TIPO               : 110  WIN32_OWN_PROCESS  (interactive)
+        ESTADO             : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        C‡D_SALIDA_WIN32   : 0  (0x0)
+        C‡D_SALIDA_SERVICIO: 0  (0x0)
+        PUNTO_COMPROB.     : 0x0
+        INDICACI‡N_INICIO  : 0x0
+
+NOMBRE_SERVICIO: sppsvc
+NOMBRE_MOSTRAR : Protecci¢n de software
+        TIPO               : 10  WIN32_OWN_PROCESS  
+        ESTADO             : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        C‡D_SALIDA_WIN32   : 0  (0x0)
+        C‡D_SALIDA_SERVICIO: 0  (0x0)
+        PUNTO_COMPROB.     : 0x0
+        INDICACI‡N_INICIO  : 0x0
+
+NOMBRE_SERVICIO: SysMain
+NOMBRE_MOSTRAR : Superfetch
+        TIPO               : 20  WIN32_SHARE_PROCESS  
+        ESTADO             : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        C‡D_SALIDA_WIN32   : 0  (0x0)
+        C‡D_SALIDA_SERVICIO: 0  (0x0)
+        PUNTO_COMPROB.     : 0x0
+        INDICACI‡N_INICIO  : 0x0
+
+NOMBRE_SERVICIO: Themes
+NOMBRE_MOSTRAR : Temas
+        TIPO               : 20  WIN32_SHARE_PROCESS  
+        ESTADO             : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        C‡D_SALIDA_WIN32   : 0  (0x0)
+        C‡D_SALIDA_SERVICIO: 0  (0x0)
+        PUNTO_COMPROB.     : 0x0
+        INDICACI‡N_INICIO  : 0x0
+
+NOMBRE_SERVICIO: TrkWks
+NOMBRE_MOSTRAR : Cliente de seguimiento de v°nculos distribuidos
+        TIPO               : 20  WIN32_SHARE_PROCESS  
+        ESTADO             : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        C‡D_SALIDA_WIN32   : 0  (0x0)
+        C‡D_SALIDA_SERVICIO: 0  (0x0)
+        PUNTO_COMPROB.     : 0x0
+        INDICACI‡N_INICIO  : 0x0
+
+NOMBRE_SERVICIO: TrustedInstaller
+NOMBRE_MOSTRAR : Instalador de m¢dulos de Windows
+        TIPO               : 10  WIN32_OWN_PROCESS  
+        ESTADO             : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        C‡D_SALIDA_WIN32   : 0  (0x0)
+        C‡D_SALIDA_SERVICIO: 0  (0x0)
+        PUNTO_COMPROB.     : 0x0
+        INDICACI‡N_INICIO  : 0x0
+
+NOMBRE_SERVICIO: UxSms
+NOMBRE_MOSTRAR : Administrador de sesi¢n del Administrador de ventanas de escritorio
+        TIPO               : 20  WIN32_SHARE_PROCESS  
+        ESTADO             : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        C‡D_SALIDA_WIN32   : 0  (0x0)
+        C‡D_SALIDA_SERVICIO: 0  (0x0)
+        PUNTO_COMPROB.     : 0x0
+        INDICACI‡N_INICIO  : 0x0
+
+NOMBRE_SERVICIO: VBoxService
+NOMBRE_MOSTRAR : VirtualBox Guest Additions Service
+        TIPO               : 10  WIN32_OWN_PROCESS  
+        ESTADO             : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        C‡D_SALIDA_WIN32   : 0  (0x0)
+        C‡D_SALIDA_SERVICIO: 0  (0x0)
+        PUNTO_COMPROB.     : 0x0
+        INDICACI‡N_INICIO  : 0x0
+
+NOMBRE_SERVICIO: WdiServiceHost
+NOMBRE_MOSTRAR : Host del servicio de diagn¢stico
+        TIPO               : 20  WIN32_SHARE_PROCESS  
+        ESTADO             : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        C‡D_SALIDA_WIN32   : 0  (0x0)
+        C‡D_SALIDA_SERVICIO: 0  (0x0)
+        PUNTO_COMPROB.     : 0x0
+        INDICACI‡N_INICIO  : 0x0
+
+NOMBRE_SERVICIO: WdiSystemHost
+NOMBRE_MOSTRAR : Host de sistema de diagn¢stico
+        TIPO               : 20  WIN32_SHARE_PROCESS  
+        ESTADO             : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        C‡D_SALIDA_WIN32   : 0  (0x0)
+        C‡D_SALIDA_SERVICIO: 0  (0x0)
+        PUNTO_COMPROB.     : 0x0
+        INDICACI‡N_INICIO  : 0x0
+
+NOMBRE_SERVICIO: WinHttpAutoProxySvc
+NOMBRE_MOSTRAR : Servicio de detecci¢n autom†tica de proxy web WinHTTP
+        TIPO               : 20  WIN32_SHARE_PROCESS  
+        ESTADO             : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        C‡D_SALIDA_WIN32   : 0  (0x0)
+        C‡D_SALIDA_SERVICIO: 0  (0x0)
+        PUNTO_COMPROB.     : 0x0
+        INDICACI‡N_INICIO  : 0x0
+
+NOMBRE_SERVICIO: Winmgmt
+NOMBRE_MOSTRAR : Instrumental de administraci¢n de Windows
+        TIPO               : 20  WIN32_SHARE_PROCESS  
+        ESTADO             : 4  RUNNING 
+                                (STOPPABLE, PAUSABLE, ACCEPTS_SHUTDOWN)
+        C‡D_SALIDA_WIN32   : 0  (0x0)
+        C‡D_SALIDA_SERVICIO: 0  (0x0)
+        PUNTO_COMPROB.     : 0x0
+        INDICACI‡N_INICIO  : 0x0
+
+NOMBRE_SERVICIO: WSearch
+NOMBRE_MOSTRAR : Windows Search
+        TIPO               : 10  WIN32_OWN_PROCESS  
+        ESTADO             : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        C‡D_SALIDA_WIN32   : 0  (0x0)
+        C‡D_SALIDA_SERVICIO: 0  (0x0)
+        PUNTO_COMPROB.     : 0x0
+        INDICACI‡N_INICIO  : 0x0

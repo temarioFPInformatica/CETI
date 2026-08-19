@@ -1,0 +1,16 @@
+RESULT OF net share 
+TIMESTAMP: 2022-02-21 08:35:13,96 Romance Standard Time 
+-------------------------------------------- 
+
+Nombre       Recurso                         Descripci¢n
+
+-------------------------------------------------------------------------------
+C$           C:\                             Recurso predeterminado            
+D$           D:\                             Recurso predeterminado            
+IPC$                                         IPC remota                        
+ADMIN$       C:\Windows                      Admin remota                      
+Proyecto     C:\Users\alumno\Documents\Proyecto
+                                             
+Users        C:\Users                        
+Se ha completado el comando correctamente.
+

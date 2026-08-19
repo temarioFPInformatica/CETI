@@ -1,0 +1,399 @@
+RESULT OF URLProtocolView 
+TIMESTAMP: 2022-02-21 08:35:02,38 Romance Standard Time 
+-------------------------------------------- 
+==================================================
+URL Name          : about
+Status            : Enabled
+Type              : Pluggable Protocol Handler
+Description       : Microsoft HTML About Pluggable Protocol
+Command-Line      : C:\Windows\System32\mshtml.dll
+Product Name      : Windows® Internet Explorer
+Company Name      : Microsoft Corporation
+Modified Time     : 14/07/2009 4:08:28
+==================================================
+
+==================================================
+URL Name          : cdl
+Status            : Enabled
+Type              : Pluggable Protocol Handler
+Description       : CDL: Asychronous Pluggable Protocol Handler
+Command-Line      : C:\Windows\system32\urlmon.dll
+Product Name      : Windows® Internet Explorer
+Company Name      : Microsoft Corporation
+Modified Time     : 14/07/2009 4:08:28
+==================================================
+
+==================================================
+URL Name          : dvd
+Status            : Enabled
+Type              : Pluggable Protocol Handler
+Description       : DVD: Pluggable Protocol
+Command-Line      : C:\Windows\System32\msvidctl.dll
+Product Name      : DirectShow
+Company Name      : Microsoft Corporation
+Modified Time     : 14/07/2009 4:08:28
+==================================================
+
+==================================================
+URL Name          : Explorer.AssocProtocol.search-ms
+Status            : Enabled
+Type              : Executable
+Description       : Windows Search Protocol
+Command-Line      : %SystemRoot%\Explorer.exe /separate,/idlist,%I,%L
+Product Name      : Sistema operativo Microsoft® Windows®
+Company Name      : Microsoft Corporation
+Modified Time     : 14/07/2009 4:08:27
+==================================================
+
+==================================================
+URL Name          : file
+Status            : Enabled
+Type              : Executable
+Description       : URL:File Protocol
+Command-Line      : 
+Product Name      : 
+Company Name      : 
+Modified Time     : 14/07/2009 4:08:27
+==================================================
+
+==================================================
+URL Name          : file
+Status            : Enabled
+Type              : Pluggable Protocol Handler
+Description       : file:, local: Asychronous Pluggable Protocol Handler
+Command-Line      : C:\Windows\system32\urlmon.dll
+Product Name      : Windows® Internet Explorer
+Company Name      : Microsoft Corporation
+Modified Time     : 14/07/2009 4:08:28
+==================================================
+
+==================================================
+URL Name          : FirefoxURL-308046B0AF4A39CB
+Status            : Enabled
+Type              : Executable
+Description       : Firefox URL
+Command-Line      : "C:\Program Files\Mozilla Firefox\firefox.exe" -osint -url "%1"
+Product Name      : Firefox
+Company Name      : Mozilla Corporation
+Modified Time     : 17/09/2020 8:14:46
+==================================================
+
+==================================================
+URL Name          : ftp
+Status            : Enabled
+Type              : Pluggable Protocol Handler
+Description       : ftp: Asychronous Pluggable Protocol Handler
+Command-Line      : C:\Windows\system32\urlmon.dll
+Product Name      : Windows® Internet Explorer
+Company Name      : Microsoft Corporation
+Modified Time     : 14/07/2009 4:08:28
+==================================================
+
+==================================================
+URL Name          : ftp
+Status            : Enabled
+Type              : Executable
+Description       : URL:File Transfer Protocol
+Command-Line      : "C:\Program Files\Google\Chrome\Application\chrome.exe" -- "%1"
+Product Name      : Google Chrome
+Company Name      : Google LLC
+Modified Time     : 17/09/2020 8:42:24
+==================================================
+
+==================================================
+URL Name          : http
+Status            : Enabled
+Type              : Pluggable Protocol Handler
+Description       : http: Asychronous Pluggable Protocol Handler
+Command-Line      : C:\Windows\system32\urlmon.dll
+Product Name      : Windows® Internet Explorer
+Company Name      : Microsoft Corporation
+Modified Time     : 14/07/2009 4:08:28
+==================================================
+
+==================================================
+URL Name          : http
+Status            : Enabled
+Type              : Executable
+Description       : URL:HyperText Transfer Protocol
+Command-Line      : "C:\Program Files\Google\Chrome\Application\chrome.exe" -- "%1"
+Product Name      : Google Chrome
+Company Name      : Google LLC
+Modified Time     : 17/09/2020 8:42:24
+==================================================
+
+==================================================
+URL Name          : https
+Status            : Enabled
+Type              : Executable
+Description       : URL:HyperText Transfer Protocol with Privacy
+Command-Line      : "C:\Program Files\Google\Chrome\Application\chrome.exe" -- "%1"
+Product Name      : Google Chrome
+Company Name      : Google LLC
+Modified Time     : 17/09/2020 8:42:24
+==================================================
+
+==================================================
+URL Name          : https
+Status            : Enabled
+Type              : Pluggable Protocol Handler
+Description       : https: Asychronous Pluggable Protocol Handler
+Command-Line      : C:\Windows\system32\urlmon.dll
+Product Name      : Windows® Internet Explorer
+Company Name      : Microsoft Corporation
+Modified Time     : 14/07/2009 4:08:28
+==================================================
+
+==================================================
+URL Name          : IE.FTP
+Status            : Enabled
+Type              : Executable
+Description       : URL:File Transfer Protocol
+Command-Line      : "C:\Program Files\Internet Explorer\iexplore.exe" %1
+Product Name      : Windows® Internet Explorer
+Company Name      : Microsoft Corporation
+Modified Time     : 12/11/2010 18:23:33
+==================================================
+
+==================================================
+URL Name          : IE.HTTP
+Status            : Enabled
+Type              : Executable
+Description       : URL:HyperText Transfer Protocol
+Command-Line      : "C:\Program Files\Internet Explorer\iexplore.exe" -nohome
+Product Name      : Windows® Internet Explorer
+Company Name      : Microsoft Corporation
+Modified Time     : 02/10/2013 14:57:26
+==================================================
+
+==================================================
+URL Name          : IE.HTTPS
+Status            : Enabled
+Type              : Executable
+Description       : URL:HyperText Transfer Protocol with Privacy
+Command-Line      : "C:\Program Files\Internet Explorer\iexplore.exe" -nohome
+Product Name      : Windows® Internet Explorer
+Company Name      : Microsoft Corporation
+Modified Time     : 12/11/2010 18:23:33
+==================================================
+
+==================================================
+URL Name          : iehistory
+Status            : Enabled
+Type              : Executable
+Description       : IE History and Feeds Shell Data Source for Windows Search
+Command-Line      : 
+Product Name      : 
+Company Name      : 
+Modified Time     : 01/09/2009 0:07:58
+==================================================
+
+==================================================
+URL Name          : ierss
+Status            : Enabled
+Type              : Executable
+Description       : IE History and Feeds Shell Data Source for Windows Search
+Command-Line      : 
+Product Name      : 
+Company Name      : 
+Modified Time     : 01/09/2009 0:07:58
+==================================================
+
+==================================================
+URL Name          : its
+Status            : Enabled
+Type              : Pluggable Protocol Handler
+Description       : its: Asychronous Pluggable Protocol Handler
+Command-Line      : %SystemRoot%\System32\itss.dll
+Product Name      : 
+Company Name      : 
+Modified Time     : 14/07/2009 4:08:42
+==================================================
+
+==================================================
+URL Name          : javascript
+Status            : Enabled
+Type              : Pluggable Protocol Handler
+Description       : Microsoft HTML Javascript Pluggable Protocol
+Command-Line      : C:\Windows\System32\mshtml.dll
+Product Name      : Windows® Internet Explorer
+Company Name      : Microsoft Corporation
+Modified Time     : 14/07/2009 4:08:28
+==================================================
+
+==================================================
+URL Name          : LDAP
+Status            : Enabled
+Type              : Executable
+Description       : URL:LDAP Protocol
+Command-Line      : "%ProgramFiles%\Windows Mail\wab.exe" "/ldap:%1"
+Product Name      : Microsoft® Windows® Operating System
+Company Name      : Microsoft Corporation
+Modified Time     : 14/07/2009 4:08:28
+==================================================
+
+==================================================
+URL Name          : local
+Status            : Enabled
+Type              : Pluggable Protocol Handler
+Description       : file:, local: Asychronous Pluggable Protocol Handler
+Command-Line      : C:\Windows\system32\urlmon.dll
+Product Name      : Windows® Internet Explorer
+Company Name      : Microsoft Corporation
+Modified Time     : 14/07/2009 4:08:28
+==================================================
+
+==================================================
+URL Name          : mailto
+Status            : Enabled
+Type              : Pluggable Protocol Handler
+Description       : Microsoft HTML Mailto Pluggable Protocol
+Command-Line      : C:\Windows\System32\mshtml.dll
+Product Name      : Windows® Internet Explorer
+Company Name      : Microsoft Corporation
+Modified Time     : 14/07/2009 4:08:28
+==================================================
+
+==================================================
+URL Name          : mapi
+Status            : Enabled
+Type              : Executable
+Description       : 
+Command-Line      : 
+Product Name      : 
+Company Name      : 
+Modified Time     : 14/07/2009 4:08:28
+==================================================
+
+==================================================
+URL Name          : mhtml
+Status            : Enabled
+Type              : Pluggable Protocol Handler
+Description       : MHTML Asynchronous Pluggable Protocol Handler
+Command-Line      : %SystemRoot%\system32\inetcomm.dll
+Product Name      : 
+Company Name      : 
+Modified Time     : 14/07/2009 4:08:28
+==================================================
+
+==================================================
+URL Name          : mk
+Status            : Enabled
+Type              : Pluggable Protocol Handler
+Description       : mk: Asychronous Pluggable Protocol Handler
+Command-Line      : C:\Windows\system32\urlmon.dll
+Product Name      : Windows® Internet Explorer
+Company Name      : Microsoft Corporation
+Modified Time     : 14/07/2009 4:08:28
+==================================================
+
+==================================================
+URL Name          : ms-its
+Status            : Enabled
+Type              : Pluggable Protocol Handler
+Description       : ms-its: Asychronous Pluggable Protocol Handler
+Command-Line      : %SystemRoot%\System32\itss.dll
+Product Name      : 
+Company Name      : 
+Modified Time     : 14/07/2009 4:08:42
+==================================================
+
+==================================================
+URL Name          : res
+Status            : Enabled
+Type              : Pluggable Protocol Handler
+Description       : Microsoft HTML Resource Pluggable Protocol
+Command-Line      : C:\Windows\System32\mshtml.dll
+Product Name      : Windows® Internet Explorer
+Company Name      : Microsoft Corporation
+Modified Time     : 14/07/2009 4:08:28
+==================================================
+
+==================================================
+URL Name          : rlogin
+Status            : Enabled
+Type              : Executable
+Description       : URL:RLogin Protocol
+Command-Line      : "C:\Windows\System32\rundll32.exe" "C:\Windows\System32\url.dll",TelnetProtocolHandler %l
+Product Name      : Sistema operativo Microsoft® Windows®
+Company Name      : Microsoft Corporation
+Modified Time     : 12/11/2010 18:23:33
+==================================================
+
+==================================================
+URL Name          : search
+Status            : Enabled
+Type              : Executable
+Description       : Windows Search Protocol
+Command-Line      : %SystemRoot%\Explorer.exe /separate,/idlist,%I,%L
+Product Name      : Sistema operativo Microsoft® Windows®
+Company Name      : Microsoft Corporation
+Modified Time     : 14/07/2009 4:08:28
+==================================================
+
+==================================================
+URL Name          : search-ms
+Status            : Enabled
+Type              : Executable
+Description       : Windows Search Protocol
+Command-Line      : %SystemRoot%\Explorer.exe /separate,/idlist,%I,%L
+Product Name      : Sistema operativo Microsoft® Windows®
+Company Name      : Microsoft Corporation
+Modified Time     : 14/07/2009 4:08:28
+==================================================
+
+==================================================
+URL Name          : StickyNotes
+Status            : Enabled
+Type              : Executable
+Description       : Sticky Notes Protocol
+Command-Line      : 
+Product Name      : 
+Company Name      : 
+Modified Time     : 01/09/2009 0:36:28
+==================================================
+
+==================================================
+URL Name          : telnet
+Status            : Enabled
+Type              : Executable
+Description       : URL:Telnet Protocol
+Command-Line      : "C:\Windows\System32\rundll32.exe" "C:\Windows\System32\url.dll",TelnetProtocolHandler %l
+Product Name      : Sistema operativo Microsoft® Windows®
+Company Name      : Microsoft Corporation
+Modified Time     : 12/11/2010 18:23:33
+==================================================
+
+==================================================
+URL Name          : tn3270
+Status            : Enabled
+Type              : Executable
+Description       : URL:TN3270 Protocol
+Command-Line      : "C:\Windows\System32\rundll32.exe" "C:\Windows\System32\url.dll",TelnetProtocolHandler %l
+Product Name      : Sistema operativo Microsoft® Windows®
+Company Name      : Microsoft Corporation
+Modified Time     : 12/11/2010 18:23:33
+==================================================
+
+==================================================
+URL Name          : tv
+Status            : Enabled
+Type              : Pluggable Protocol Handler
+Description       : TV: Pluggable Protocol
+Command-Line      : C:\Windows\System32\msvidctl.dll
+Product Name      : DirectShow
+Company Name      : Microsoft Corporation
+Modified Time     : 14/07/2009 4:08:28
+==================================================
+
+==================================================
+URL Name          : vbscript
+Status            : Enabled
+Type              : Pluggable Protocol Handler
+Description       : Microsoft HTML Javascript Pluggable Protocol
+Command-Line      : C:\Windows\System32\mshtml.dll
+Product Name      : Windows® Internet Explorer
+Company Name      : Microsoft Corporation
+Modified Time     : 14/07/2009 4:08:28
+==================================================
+
